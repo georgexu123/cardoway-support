@@ -1,0 +1,74 @@
+{
+  "en-US": {
+    "home_lede": "Cardoway is a single-player game with a standard 52-card deck. You and one to three computer opponents take turns adding cards to a railway track. Play a card with the same rank as an earlier one, and collect both cards and everything between them. Suits don't matter. After collecting, you play again. The last player with cards wins.",
+    "privacy_teaser": "Settings, play mode, theme choice and recorded game statistics are stored on your device and are not uploaded to the developer. Unfinished games are not saved. Deleting the app removes its local settings and statistics.",
+    "save_question": "What happens when I close the app?",
+    "save_answer": "A fresh game starts after you fully close and reopen the app; unfinished games are not saved. Your settings and recorded stats stay. Buying or restoring the extra themes requires an internet connection.",
+    "local_data": "Settings, play mode, theme choice and recorded game statistics are stored on your device and are not uploaded to the developer. Unfinished games are not saved. Deleting the app removes its local settings and statistics.",
+    "themes": "The game includes both modes and one table theme. Four more themes and their matching effects are available through a single, optional purchase. You can preview them first. There is no subscription.",
+    "mode_description": "Choose how to play\n• Relaxed: matching cards are collected automatically.\n• Observation: find and tap an earlier card of the same rank yourself. A wrong choice or a pass ends your turn."
+  },
+  "de-DE": {
+    "home_lede": "In Cardoway spielst du allein gegen ein bis drei Computergegner mit einem klassischen Blatt aus 52 Karten. Reihum legt jeder eine Karte auf die Schienen. Hat die neue Karte denselben Wert wie eine frühere, bekommst du beide Karten und alle dazwischen. Die Kartenfarbe spielt keine Rolle. Nach dem Einsammeln bist du noch einmal dran. Wer zuletzt noch Karten hat, gewinnt.",
+    "privacy_teaser": "Einstellungen, Spielmodus, Themenwahl und erfasste Statistiken werden auf deinem Gerät gespeichert und nicht an den Entwickler übertragen. Laufende Partien werden nicht gespeichert. Beim Löschen der App werden ihre lokalen Einstellungen und Statistiken entfernt.",
+    "save_question": "Was passiert, wenn ich die App schließe?",
+    "save_answer": "Wenn du die App vollständig schließt und neu öffnest, beginnt eine neue Partie. Laufende Partien werden nicht gespeichert; Einstellungen und erfasste Statistiken bleiben erhalten. Für den Kauf und die Wiederherstellung der zusätzlichen Themen ist Internet nötig.",
+    "local_data": "Einstellungen, Spielmodus, Themenwahl und erfasste Statistiken werden auf deinem Gerät gespeichert und nicht an den Entwickler übertragen. Laufende Partien werden nicht gespeichert. Beim Löschen der App werden ihre lokalen Einstellungen und Statistiken entfernt.",
+    "themes": "Beide Modi und ein Tischthema sind enthalten. Vier weitere Themen mit passenden Effekten kannst du vorab ansehen und mit einem einzigen optionalen Kauf freischalten. Es gibt kein Abo.",
+    "mode_description": "Zwei Spielweisen\n• Entspannt: Passende Karten werden automatisch eingesammelt.\n• Aufmerksam: Suche selbst eine frühere Karte mit demselben Wert und tippe sie an. Eine falsche Wahl oder das Weitergeben beendet deinen Zug."
+  },
+  "fr-FR": {
+    "home_lede": "Cardoway se joue en solo, face à un à trois adversaires contrôlés par l'ordinateur, avec un jeu de 52 cartes. Chacun pose une carte à son tour sur la voie ferrée. Si elle a la même valeur qu'une carte déjà posée, vous récupérez les deux et toutes celles qui les séparent. La couleur ne compte pas. Après une prise, vous rejouez. Le dernier joueur à avoir des cartes gagne.",
+    "privacy_teaser": "Vos réglages, le mode, le thème et les statistiques enregistrées restent sur votre appareil et ne sont pas envoyés au développeur. Les parties en cours ne sont pas sauvegardées. Supprimer l'app efface ses réglages et statistiques locaux.",
+    "save_question": "Que se passe-t-il si je ferme l'app ?",
+    "save_answer": "Une nouvelle partie commence après la fermeture complète et la réouverture de l'app. Les parties en cours ne sont pas sauvegardées ; vos réglages et statistiques enregistrées sont conservés. L'achat et la restauration des thèmes supplémentaires nécessitent Internet.",
+    "local_data": "Vos réglages, le mode, le thème et les statistiques enregistrées restent sur votre appareil et ne sont pas envoyés au développeur. Les parties en cours ne sont pas sauvegardées. Supprimer l'app efface ses réglages et statistiques locaux.",
+    "themes": "Les deux modes et un thème de table sont inclus. Quatre autres thèmes, avec leurs effets assortis, peuvent être prévisualisés puis débloqués par un achat unique et facultatif. Aucun abonnement.",
+    "mode_description": "Deux façons de jouer\n• Détente : les cartes de même valeur sont récupérées automatiquement.\n• Observation : repérez vous-même une carte précédente de même valeur et touchez-la. Une erreur ou un passage de tour met fin à votre tour."
+  },
+  "ru-RU": {
+    "home_lede": "В Cardoway вы играете в одиночку против одного, двух или трёх компьютерных соперников. В колоде 52 карты. Игроки по очереди выкладывают по карте на железнодорожный путь. Если новая карта совпадает по достоинству с одной из предыдущих, вы забираете обе и все карты между ними. Масть не важна. После сбора карт вы ходите снова. Побеждает тот, у кого последним останутся карты.",
+    "privacy_teaser": "Настройки, режим, выбранная тема и записанная статистика хранятся на устройстве и не отправляются разработчику. Незавершённые партии не сохраняются. Удаление приложения удаляет его локальные настройки и статистику.",
+    "save_question": "Что будет, если закрыть приложение?",
+    "save_answer": "После полного закрытия и повторного запуска приложения начинается новая партия. Незавершённые партии не сохраняются; настройки и записанная статистика остаются. Для покупки и восстановления дополнительных тем нужен интернет.",
+    "local_data": "Настройки, режим, выбранная тема и записанная статистика хранятся на устройстве и не отправляются разработчику. Незавершённые партии не сохраняются. Удаление приложения удаляет его локальные настройки и статистику.",
+    "themes": "Оба режима и одна тема стола доступны сразу. Ещё четыре темы с соответствующими эффектами можно сначала посмотреть, а затем открыть одной необязательной покупкой. Подписки нет.",
+    "mode_description": "Два режима\n• Спокойный: совпадения собираются автоматически.\n• Внимательный: сами найдите и нажмите на более раннюю карту того же достоинства. Ошибка или пропуск завершает ход."
+  },
+  "ja-JP": {
+    "home_lede": "Cardowayは、52枚のトランプでコンピュータと対戦する1人用ゲームです。相手は1〜3人。順番にカードを1枚ずつ線路に並べ、出したカードと同じ数字のカードがすでにあれば、その2枚と間にあるカードをすべて自分の山札に加えます。マークは関係ありません。回収できたら、もう一度自分の番。最後までカードが残った人の勝ちです。",
+    "privacy_teaser": "設定、プレイモード、テーマ選択、記録済みの成績は端末内に保存され、開発者には送信されません。途中の対局は保存されません。アプリを削除すると、アプリの設定と成績も削除されます。",
+    "save_question": "アプリを終了するとどうなりますか？",
+    "save_answer": "アプリを完全に終了して開き直すと、新しいゲームが始まります。途中の対局は保存されませんが、設定と記録済みの成績は残ります。追加テーマの購入・購入の復元にはインターネット接続が必要です。",
+    "local_data": "設定、プレイモード、テーマ選択、記録済みの成績は端末内に保存され、開発者には送信されません。途中の対局は保存されません。アプリを削除すると、アプリの設定と成績も削除されます。",
+    "themes": "2つのモードと1つのテーブルテーマが最初から使えます。追加の4テーマと専用の演出は、プレビューで確認してから、1回の買い切りでまとめて解放できます。購入は任意で、サブスクリプションはありません。",
+    "mode_description": "2つの遊び方\n・リラックス：同じ数字のカードを自動で回収します。\n・見極め：同じ数字の古いカードを自分で探してタップ。間違えたり、パスしたりすると手番が終わります。"
+  },
+  "ko-KR": {
+    "home_lede": "Cardoway는 52장의 카드로 컴퓨터 상대 1~3명과 대결하는 싱글 플레이 게임입니다. 차례로 선로에 카드를 한 장씩 놓으세요. 새 카드와 같은 숫자의 카드가 앞에 있으면, 두 카드와 그 사이의 카드를 모두 내 카드 더미로 가져옵니다. 무늬는 상관없어요. 카드를 가져오면 한 번 더 낼 수 있고, 마지막까지 카드가 남은 사람이 이깁니다.",
+    "privacy_teaser": "설정, 플레이 모드, 테마 선택과 기록된 전적은 기기에 저장되며 개발자에게 전송되지 않습니다. 진행 중인 판은 저장되지 않습니다. 앱을 삭제하면 앱의 로컬 설정과 전적도 삭제됩니다.",
+    "save_question": "앱을 종료하면 어떻게 되나요?",
+    "save_answer": "앱을 완전히 종료했다가 다시 열면 새 게임이 시작됩니다. 진행 중인 판은 저장되지 않지만 설정과 기록된 전적은 유지됩니다. 추가 테마 구매와 구매 복원에는 인터넷 연결이 필요합니다.",
+    "local_data": "설정, 플레이 모드, 테마 선택과 기록된 전적은 기기에 저장되며 개발자에게 전송되지 않습니다. 진행 중인 판은 저장되지 않습니다. 앱을 삭제하면 앱의 로컬 설정과 전적도 삭제됩니다.",
+    "themes": "두 모드와 기본 테마 하나가 포함되어 있습니다. 추가 테마 네 가지와 각 테마의 효과는 미리 살펴본 뒤 한 번의 선택 구매로 모두 잠금 해제할 수 있습니다. 구독은 없습니다.",
+    "mode_description": "두 가지 모드\n• 편안하게: 같은 숫자의 카드를 자동으로 찾아 가져옵니다.\n• 직접 찾기: 앞에 놓인 같은 숫자의 카드를 직접 찾아 누릅니다. 잘못 고르거나 차례를 넘기면 내 차례가 끝납니다."
+  },
+  "zh-Hans": {
+    "home_lede": "Cardoway 把这个熟悉的纸牌玩法放到了火车轨道上。使用一副 52 张扑克牌，你和 1 至 3 个电脑对手轮流出牌。新牌与前面某张牌点数相同时，两张牌连同中间的牌都归你，花色不影响配对。收牌后还能再出一张，最后手里还有牌的人获胜。",
+    "privacy_teaser": "设置、玩法、主题选择和已记录的战绩保存在设备本地，不会上传给开发者。未完成的牌局不会保存。删除 App 会删除其本地设置和战绩。",
+    "save_question": "完全关闭游戏后，会接着上次玩吗？",
+    "save_answer": "完全关闭游戏后，再次打开会开始新的一局，不保存未完成的牌局；设置和已记录的战绩会保留。购买或恢复额外主题需要联网。",
+    "local_data": "设置、玩法、主题选择和已记录的战绩保存在设备本地，不会上传给开发者。未完成的牌局不会保存。删除 App 会删除其本地设置和战绩。",
+    "themes": "两种玩法和一套牌桌主题直接可用。另外四套主题及其配套特效可以先预览，再通过一次可选的买断购买全部解锁，没有订阅。",
+    "mode_description": "想省心玩，或是自己找一找\n• 轻松模式：系统自动找出相同点数的牌并收牌。\n• 观察模式：自己找到并点击前面的同点数牌。点错或跳过，就轮到下一位。"
+  },
+  "zh-Hant": {
+    "home_lede": "Cardoway 把這個熟悉的紙牌玩法放到了火車軌道上。使用一副 52 張撲克牌，你和 1 至 3 個電腦對手輪流出牌。新牌與前面某張牌點數相同時，兩張牌連同中間的牌都歸你，花色不影響配對。收牌後還能再出一張，最後手裡還有牌的人獲勝。",
+    "privacy_teaser": "設定、玩法、主題選擇和已記錄的戰績儲存在裝置本機，不會上傳給開發者。未完成的牌局不會儲存。刪除 App 會刪除其本機設定和戰績。",
+    "save_question": "完全關閉遊戲後，會接著上次玩嗎？",
+    "save_answer": "完全關閉遊戲後，再次開啟會開始新的一局，不儲存未完成的牌局；設定和已記錄的戰績會保留。購買或回復額外主題需要連網。",
+    "local_data": "設定、玩法、主題選擇和已記錄的戰績儲存在裝置本機，不會上傳給開發者。未完成的牌局不會儲存。刪除 App 會刪除其本機設定和戰績。",
+    "themes": "兩種玩法和一套牌桌主題直接可用。另外四套主題及其配套特效可以先預覽，再透過一次性的選購全部解鎖，沒有訂閱。",
+    "mode_description": "想輕鬆玩，或是自己找一找\n• 輕鬆模式：系統自動找出相同點數的牌並收牌。\n• 觀察模式：自己找到並點選前面的同點數牌。點錯或跳過，就輪到下一位。"
+  }
+}

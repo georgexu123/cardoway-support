@@ -1,4 +1,5 @@
 from html import escape
+import json
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
@@ -165,6 +166,20 @@ COPY = {
         "contact_privacy": "По вопросам конфиденциальности или поддержки пишите на", "tagline": "Спокойное карточное путешествие для iPhone.", "read_privacy": "Политика конфиденциальности", "get_support": "Получить помощь",
     },
 }
+
+
+# Current-release facts are shared by the public overview, support and privacy pages.
+with (ROOT / "release-copy.json").open(encoding="utf-8") as source:
+    for locale, update in json.load(source).items():
+        copy = COPY[locale]
+        copy["home_lede"] = update["home_lede"]
+        copy["privacy_teaser"] = update["privacy_teaser"]
+        copy["faqs"][1] = (update["save_question"], update["save_answer"])
+        copy["faqs"][2] = (copy["faqs"][2][0], update["mode_description"])
+        copy["faqs"][3] = (copy["faqs"][3][0], update["themes"])
+        copy["features"][2] = (copy["features"][2][0], update["themes"])
+        copy["privacy_sections"][0] = (copy["privacy_sections"][0][0], update["local_data"])
+        copy["effective"] = copy["effective"].replace("16", "17")
 
 
 def language_nav(locale: str, page: str) -> str:
